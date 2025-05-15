@@ -1,3 +1,7 @@
+# Deprecated Notice
+
+**This repository is deprecated. Please use the new [@blaxel/core](https://www.npmjs.com/package/@blaxel/core) package for the latest updates and features.**
+
 # Blaxel Typescript SDK
 
 <p align="center">
