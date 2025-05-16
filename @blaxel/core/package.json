@@ -1,10 +1,13 @@
 {
-	"name": "@blaxel/core",
+	"name": "@wizdy/blaxel_core",
 	"version": "0.2.1-dev4",
 	"description": "Blaxel Core SDK for TypeScript",
 	"license": "MIT",
 	"author": "Blaxel, INC (https://blaxel.ai)",
 	"homepage": "https://blaxel.ai",
+	"publishConfig": {
+		"access": "public"
+	},
 	"scripts": {
 		"lint": "eslint src/",
 		"dev": "tsc --watch",
